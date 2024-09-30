@@ -28,6 +28,7 @@ namespace Tyuiu.YakovlevVAa.Sprint1.Task2.V16
             Console.WriteLine("* РЕЗУЛЬТАТ:                                                              *");
             Console.WriteLine("***************************************************************************");
             Console.WriteLine($"{ds.CalculatePerimetrCircle(r)}");
+#123123
         }
     }
 }
