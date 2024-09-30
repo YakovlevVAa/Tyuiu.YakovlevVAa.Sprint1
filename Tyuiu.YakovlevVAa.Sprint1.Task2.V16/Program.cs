@@ -27,7 +27,7 @@ namespace Tyuiu.YakovlevVAa.Sprint1.Task2.V16
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* РЕЗУЛЬТАТ:                                                              *");
             Console.WriteLine("***************************************************************************");
-            Console.WriteLine($"{ds.CalculatePerimetrCircle(r)}");
+            Console.WriteLine($"{Math.Round(ds.CalculatePerimetrCircle(r), 3)}");
         }
     }
 }
