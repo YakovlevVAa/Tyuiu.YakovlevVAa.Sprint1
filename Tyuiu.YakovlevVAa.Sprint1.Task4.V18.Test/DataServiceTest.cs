@@ -9,10 +9,10 @@ namespace Tyuiu.YakovlevVAa.Sprint1.Task4.V18.Test
         {
             DataService ds = new DataService();
             double x, y;
-            x = 1;
-            y = 2;
-            var res = ds.Calculate(x, y);
-            Assert.AreEqual(0.5, res);
+            x = 5;
+            y = 5;
+            var res = Math.Round(ds.Calculate(x, y), 3);
+            Assert.AreEqual(0.005, res);
         }
     }
 }
