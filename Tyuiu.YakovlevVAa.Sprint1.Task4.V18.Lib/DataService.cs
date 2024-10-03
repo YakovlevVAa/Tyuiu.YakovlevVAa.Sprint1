@@ -5,7 +5,7 @@ namespace Tyuiu.YakovlevVAa.Sprint1.Task4.V18.Lib
     {
         public double Calculate(double x, double y)
         {
-            return (Math.Sqrt(x+3)/(Math.Pow(x*y,2)));
+            return Math.Round((Math.Sqrt(x+3)/(Math.Pow(x*y,2))), 3);
         }
     }
 }

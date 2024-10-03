@@ -29,7 +29,7 @@ namespace Tyuiu.YakovlevVAa.Sprint1.Task4.V18
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* РЕЗУЛЬТАТ:                                                              *");
             Console.WriteLine("***************************************************************************");
-            Console.WriteLine($"{Math.Round(ds.Calculate(x,y), 3)}");
+            Console.WriteLine($"{ds.Calculate(x,y)}");
         }
     }
 }
