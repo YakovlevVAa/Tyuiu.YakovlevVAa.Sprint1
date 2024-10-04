@@ -10,13 +10,13 @@ namespace Tyuiu.YakovlevVAa.Sprint1.Task6.V18
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* Спринт #1                                                               *");
             Console.WriteLine("* Тема: Базовые навыки работы в C#                                        *");
-            Console.WriteLine("* Задание #5                                                              *");
-            Console.WriteLine("* Вариант #2                                                              *");
+            Console.WriteLine("* Задание #6                                                              *");
+            Console.WriteLine("* Вариант #18                                                             *");
             Console.WriteLine("* Выполнил: Яковлев Виктор Александрович | ИИПб-24-2                      *");
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* УСЛОВИЕ:                                                                *");
-            Console.WriteLine("* Дано значение температуры в градусах Фаренгейта.                        *");
-            Console.WriteLine("* Определить значение этой же температуры в градусах Цельсия.             *");
+            Console.WriteLine("* Gользователь вводит текст. Проверить, что строка является символьным    *");
+            Console.WriteLine("*  представлением натурального числа.                                     *");
             Console.WriteLine("*                                                                         *");
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* ИСХОДНЫЕ ДАННЫЕ:                                                        *");
